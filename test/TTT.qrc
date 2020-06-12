@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Test">
+        <file>Resources/cbg_l.png</file>
+        <file>Resources/wwwwww.jpg</file>
+    </qresource>
+</RCC>
